@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+.cv{
+    background-color: white;
+    height: 90%;
+    width: 70%;
+    position: absolute;
+    left: 15%;
+    top: 5%;
+}
+
+.pic{
+    background-color: yellow;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    position: absolute;
+    top: 2%;
+    left: 2%;
+}
+
+.name{
+    position: absolute;
+    top: 5%;
+    left: 12%;
+}
+
+.israk{
+    background-color: white;
+}
+
+.role{
+    background-color: white;
+}
