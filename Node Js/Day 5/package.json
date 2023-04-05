@@ -1,0 +1,19 @@
+{
+  "name": "day-5",
+  "version": "1.0.0",
+  "description": "This is npm project test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node.js"
+  ],
+  "author": "Esrat Jahan Riya",
+  "license": "ISC",
+  "dependencies": {
+    "movies-names": "^1.1.1",
+    "random-fruits-name": "^1.9.6"
+  }
+}
